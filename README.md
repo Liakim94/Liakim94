@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **Liakim94/Liakim94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+✨ MY SKILLS ✨
+ <img src="https://img.shields.io/badge/HTML5-43c6ac?style=flat&logo=#E34F26&logoColor=white"/>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Liakim94&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Liakim94)](https://github.com/Liakim94/github-readme-stats)
