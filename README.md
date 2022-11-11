@@ -16,7 +16,10 @@ Here are some ideas to get you started:
 
 -->
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Hi there 👋&fontSize=80)
+
 ---
+
+
 <div align="center">
   <h3>✨ MY SKILLS ✨</h3>
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
