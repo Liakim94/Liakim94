@@ -16,7 +16,10 @@ Here are some ideas to get you started:
 ✨ MY SKILLS ✨
 
  
-📫 CONTACT INFO 📫
+##📫 CONTACT INFO 📫
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:do942003@gmail.com)](mailto:do942003@gmail.com)
+
+
 
 -->
 
