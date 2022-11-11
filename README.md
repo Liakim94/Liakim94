@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 -->
-####📫 CONTACT INFO 📫<br/>
+📫 CONTACT INFO 📫<br/>
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:do942003@gmail.com)](mailto:do942003@gmail.com)
 ---
