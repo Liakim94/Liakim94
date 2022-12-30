@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hello!%20It's%20LiaKim&fontSize=60)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hello!%20I'm%20Lia&fontSize=60)
 
 ---
 
@@ -54,7 +54,7 @@ Here are some ideas to get you started:
 📫 CONTACT INFO 📫<br/>
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:do942003@gmail.com)](mailto:do942003@gmail.com)
 
-
+<!-- [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj={아이디})](https://solved.ac/{아이디}) -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Liakim94&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Liakim94)](https://github.com/Liakim94/github-readme-stats)
 
