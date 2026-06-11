@@ -63,7 +63,7 @@ Here are some ideas to get you started:
 
 > ⚠️ **Note on source code:** This was delivered as a government project under
 > security and contractual restrictions, so the source code is partially open.
-> [`pils`](../../pils) repository, which contains a project with publicly
+> [`pils`](https://github.com/Liakim94/PILS) repository, which contains a project with publicly
 > available source code.
 ---
 
