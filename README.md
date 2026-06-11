@@ -62,10 +62,9 @@ Here are some ideas to get you started:
 🔗 **Live system:** https://www.smes.go.kr/pis/main/index.do
 
 > ⚠️ **Note on source code:** This was delivered as a government project under
-> security and contractual restrictions, so the source code cannot be made public.
-> This README documents my role, the architecture, and the engineering decisions
-> as a case study.
-
+> security and contractual restrictions, so the source code is partially open.
+> [`pils`](../../pils) repository, which contains a project with publicly
+> available source code.
 ---
 
 ## Overview
@@ -85,13 +84,11 @@ across both front-end and back-end as part of the delivery team.
 - Developed front-end interfaces, translating UI/UX designs into responsive,
   cross-browser pages used by businesses and administrators.
 - Built back-end features on a **Spring**-based stack, including
-  [user authentication / contract management modules / admin functions — keep only what you did].
+  [user authentication / contract management modules / admin functions].
 - Implemented data handling and queries against a **PostgreSQL** database for
   contract and material records.
 - Collaborated with [designers / backend team / stakeholders] to turn
   requirements into working software within delivery deadlines.
-
-*(Adjust the bullets above to match exactly what you personally worked on.)*
 
 ---
 
@@ -100,9 +97,9 @@ across both front-end and back-end as part of the delivery team.
 | Layer | Technologies |
 |-------|--------------|
 | Language | Java, JavaScript |
-| Framework | Spring (Spring Boot / Spring MVC) |
+| Framework | Spring |
 | Database | PostgreSQL |
-| Front-end | HTML, CSS, JavaScript [+ JSP if used] |
+| Front-end | HTML, CSS, JavaScript, JSP |
 | Tools | Git, Gitlab |
 
 ---
@@ -122,6 +119,18 @@ across both front-end and back-end as part of the delivery team.
   working full-stack features.
 - Gained experience working within a delivery team on a regulated, public-sector
   project.
+
+ ---
+
+## A Note on My Other Projects
+
+Most of my professional work has been on **government and public-sector systems**,
+which are subject to security and contractual restrictions. As a result, the
+source code for those projects cannot be shared publicly.
+
+For publicly viewable source code, please see my
+[`pils`](../../pils) repository. For a walkthrough of any of my other work or my
+specific contributions, I'm happy to discuss directly.
 ---
 
 📫 CONTACT INFO 📫<br/>
