@@ -126,11 +126,9 @@ across both front-end and back-end as part of the delivery team.
 
 Most of my professional work has been on **government and public-sector systems**,
 which are subject to security and contractual restrictions. As a result, the
-source code for those projects cannot be shared publicly.
+source code for those projects cannot be shared publicly. For a walkthrough of any of my other work or my specific contributions, I'm happy to discuss directly.
 
-For publicly viewable source code, please see my
-[`pils`](../../pils) repository. For a walkthrough of any of my other work or my
-specific contributions, I'm happy to discuss directly.
+ 
 ---
 
 📫 CONTACT INFO 📫<br/>
