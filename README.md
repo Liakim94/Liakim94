@@ -111,8 +111,6 @@ across both front-end and back-end as part of the delivery team.
 [Browser]  →  [Spring Web Layer]  →  [Service Layer]  →  [PostgreSQL]
 │
 [Admin Panel]
-*(A simple, self-drawn high-level diagram is fine here — it shows you understand
-the system without exposing internal detail. Replace with an image if you make one.)*
 
 ---
 
