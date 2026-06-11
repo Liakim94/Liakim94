@@ -49,14 +49,90 @@ Here are some ideas to get you started:
   <br>
 </div>
 
+
+---
+# Supply Price Linkage System
+### Government B2B compliance platform — Korea Ministry of SMEs and Startups
+
+> A production web platform supporting Korea's Supply Price Linkage System,
+> which helps small and medium enterprises automatically reflect raw-material
+> price changes in their supply contracts.
+> Developed during my time at [B Company] as part of the government delivery team.
+
+🔗 **Live system:** https://www.smes.go.kr/pis/main/index.do
+
+> ⚠️ **Note on source code:** This was delivered as a government project under
+> security and contractual restrictions, so the source code cannot be made public.
+> This README documents my role, the architecture, and the engineering decisions
+> as a case study.
+
+---
+
+## Overview
+
+The Supply Price Linkage System is a national platform operated by the Korea
+Ministry of SMEs and Startups. It allows businesses to register, manage, and
+track supply contracts where payment amounts are linked to fluctuations in
+raw-material costs — reducing disputes and protecting smaller suppliers.
+
+I contributed to the **web application development** of this system, working
+across both front-end and back-end as part of the delivery team.
+
+---
+
+## My Role & Contributions
+
+- Developed front-end interfaces, translating UI/UX designs into responsive,
+  cross-browser pages used by businesses and administrators.
+- Built back-end features on a **Spring**-based stack, including
+  [user authentication / contract management modules / admin functions — keep only what you did].
+- Implemented data handling and queries against a **PostgreSQL** database for
+  contract and material records.
+- Collaborated with [designers / backend team / stakeholders] to turn
+  requirements into working software within delivery deadlines.
+
+*(Adjust the bullets above to match exactly what you personally worked on.)*
+
+---
+
+## Tech Stack
+
+| Layer | Technologies |
+|-------|--------------|
+| Language | Java, JavaScript |
+| Framework | Spring (Spring Boot / Spring MVC) |
+| Database | PostgreSQL |
+| Front-end | HTML, CSS, JavaScript [+ JSP if used] |
+| Tools | Git, Gitlab |
+
+---
+
+## Architecture (high level)
+[Browser]  →  [Spring Web Layer]  →  [Service Layer]  →  [PostgreSQL]
+│
+[Admin Panel]
+*(A simple, self-drawn high-level diagram is fine here — it shows you understand
+the system without exposing internal detail. Replace with an image if you make one.)*
+
+---
+
+## Key Takeaways
+
+- Delivered features for a **live government system** used by businesses
+  nationwide, under production constraints and compliance requirements.
+- Practiced translating non-technical business and policy requirements into
+  working full-stack features.
+- Gained experience working within a delivery team on a regulated, public-sector
+  project.
 ---
 
 📫 CONTACT INFO 📫<br/>
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:do942003@gmail.com)](mailto:do942003@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:do942003@gmail.com)](mailto:liadohyunkim@gmail.com)
 
-<!-- [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj={아이디})](https://solved.ac/{아이디}) -->
+
+<!-- [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj={아이디})](https://solved.ac/{아이디})
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Liakim94&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Liakim94)](https://github.com/Liakim94/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Liakim94)](https://github.com/Liakim94/github-readme-stats) -->
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer)
 
